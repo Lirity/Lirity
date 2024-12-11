@@ -15,7 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Tech Stack
+### 🌟 About Me
+
+### 🛠️ Tech Stack
 
 ### 📬 Connect
+
 - **Email**: lirity1024@outlook.com
