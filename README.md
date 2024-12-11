@@ -30,6 +30,8 @@ Here are some ideas to get you started:
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
 ![Flask](https://img.shields.io/badge/-Flask-F27C3C?logo=flask&logoColor=white)
 ![Kratos](https://img.shields.io/badge/-Kratos-FF2626?logo=go&logoColor=white)
+![Grafana](https://img.shields.io/badge/-Grafana-F46800?logo=grafana&logoColor=white)
+
 
 
 
