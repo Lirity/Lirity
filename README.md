@@ -8,7 +8,7 @@
 - 🥸 Driven to evolve into a skilled independent developer
 - 💪 Embarked on a fitness journey in March 2022
 - ⚽ Passionate about playing football and a Manchester City supporter
-- 🎵 Devoted fan of Sakanaction, attended the SAKANAQUARIUM 2024 "Turn" concert in Sendai
+- 🎵 Devoted fan of Sakanaction, attended the SAKANAQUARIUM 2024 "Turn" in Sendai
 
 ### 💼 Experience
 
@@ -17,7 +17,7 @@
 
 ### 🔥 Achievement
 
-- [Implicit Coarse-to-Fine 3D Perception for Category-level Object Pose Estimation from Monocular RGB Image.](https://ieeexplore.ieee.org/abstract/document/10610570) IEEE ICRA, 2024.
+- [Implicit Coarse-to-Fine 3D Perception for Category-level Object Pose Estimation from Monocular RGB Image.](https://ieeexplore.ieee.org/abstract/document/10610570)
 
 ### 🛠️ Tech Stack
 #### Languages
