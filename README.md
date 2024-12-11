@@ -17,10 +17,14 @@ Here are some ideas to get you started:
 
 ### 🌟 About Me
 
-### Experience
+### 💼 Experience
 
 - Sep 2022 - Jun 2025: Shandong University
 - Sep 2024 - Dec 2024: bilibili, Shanghai
+
+### 🔥 Achievement
+
+- IEEE International Conference on Robotics and Automation, 2024.
 
 ### 🛠️ Tech Stack
 ![Golang](https://img.shields.io/badge/-Golang-00ADD8?logo=go&logoColor=white)
@@ -33,15 +37,6 @@ Here are some ideas to get you started:
 ![Kratos](https://img.shields.io/badge/-Kratos-FF2626?logo=go&logoColor=white)
 ![Grafana](https://img.shields.io/badge/-Grafana-F46800?logo=grafana&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white)
-
-
-
-
-
-
-
-
-
 
 ### 📬 Connect
 
