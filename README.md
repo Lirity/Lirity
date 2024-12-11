@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+[![Email](https://img.shields.io/badge/lirity1024outlook.com-0078D4?logo=microsoft-outlook&logoColor=white)](mailto:lirity1024@outlook.com)
 ![Wechat](https://img.shields.io/badge/Lirity1024-07C160?logo=wechat&logoColor=white)
 
 <!--
