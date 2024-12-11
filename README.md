@@ -12,7 +12,7 @@
 
 ### 💼 Experience
 
-- **Since Sep 2022**: Pursuing a Master's degree at Shandong University, focusing on category-level object pose estimation.
+- **Since Sep 2022**: Pursuing a Master's degree at Shandong University, focusing on object pose estimation.
 - **Sep 2024 - Dec 2024**: AI Backend Intern at Bilibili, responsible for building the AI Open Platform.
 
 ### 🔥 Achievement
