@@ -17,7 +17,7 @@
 
 ### 🔥 Achievement
 
-- [Implicit Coarse-to-Fine 3D Perception for Category-level Object Pose Estimation from Monocular RGB Image.](https://ieeexplore.ieee.org/abstract/document/10610570) IEEE International Conference on Robotics and Automation, 2024.
+- [Implicit Coarse-to-Fine 3D Perception for Category-level Object Pose Estimation from Monocular RGB Image.](https://ieeexplore.ieee.org/abstract/document/10610570) IEEE ICRA, 2024.
 
 ### 🛠️ Tech Stack
 #### Languages
