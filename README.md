@@ -24,6 +24,7 @@ Here are some ideas to get you started:
 
 ### 🛠️ Tech Stack
 ![Golang](https://img.shields.io/badge/-Go-00ADD8?logo=go&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
 
 ### 📬 Connect
 
