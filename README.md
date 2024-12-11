@@ -37,13 +37,11 @@ Here are some ideas to get you started:
 ### 🛠️ Tech Stack
 
 - Languages:
-
 ![Golang](https://img.shields.io/badge/-Golang-00ADD8?logo=go&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2b%2b&logoColor=white)
 
 - Frameworks & Tools:
-- 
 ![Kratos](https://img.shields.io/badge/-Kratos-FF2626?logo=go&logoColor=white)
 ![Flask](https://img.shields.io/badge/-Flask-F27C3C?logo=flask&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white)
