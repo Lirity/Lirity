@@ -17,6 +17,11 @@ Here are some ideas to get you started:
 
 ### 🌟 About Me
 
+### Experience
+
+- Sep 2022 - Jun 2025: Shandong University
+- Sep 2024 - Dec 2024: bilibili, Shanghai
+
 ### 🛠️ Tech Stack
 
 ### 📬 Connect
