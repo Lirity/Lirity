@@ -9,7 +9,6 @@
 - 💪 Embarked on a fitness journey in March 2022
 - ⚽ Passionate about playing football and a Manchester City supporter
 - 🎵 Devoted fan of Sakanaction, attended the SAKANAQUARIUM 2024 "Turn" concert in Sendai
-- 🎮 Gamer with a love for League of Legends, Teamfight Tactics, and Apex Legends
 
 ### 💼 Experience
 
