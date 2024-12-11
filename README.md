@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![Email](https://img.shields.io/badge/lirity1024@outlook.com-0078D4?logo=minutemailer&logoColor=white)
+![Email](https://img.shields.io/badge/lirity1024@outlook.com-0078D4?logo=gmail&logoColor=white)
 ![Wechat](https://img.shields.io/badge/Lirity1024-07C160?logo=wechat&logoColor=white)
 
 <!--
