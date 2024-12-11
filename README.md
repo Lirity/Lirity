@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![Email](https://img.shields.io/badge/Email-lirity1024@outlook.com-0078D4?logo=microsoft-outlook&logoColor=white)
+![Email](https://img.shields.io/badge/Email-lirity1024@outlook.com-0078D4?logo=maildotru&logoColor=white)
 ![Wechat](https://img.shields.io/badge/Lirity1024-07C160?logo=wechat&logoColor=white)
 
 <!--
