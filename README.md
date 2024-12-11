@@ -19,8 +19,8 @@ Here are some ideas to get you started:
 
 ### 💼 Experience
 
-- Sep 2022 - Jun 2025: Shandong University
-- Sep 2024 - Dec 2024: bilibili, Shanghai
+- Sep 2022 - Jun 2025: Master student at Shandong University, focusing on category-level object pose estimation.
+- Sep 2024 - Dec 2024: AI Backend Intern at Bilibili, responsible for building the AI Open Platform.
 
 ### 🔥 Achievement
 
