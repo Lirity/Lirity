@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 ### 🔥 Achievement
 
-- IEEE International Conference on Robotics and Automation, 2024. [Paper](https://ieeexplore.ieee.org/abstract/document/10610570)
+- [IEEE International Conference on Robotics and Automation, 2024.](https://ieeexplore.ieee.org/abstract/document/10610570)
 
 ### 🛠️ Tech Stack
 ![Golang](https://img.shields.io/badge/-Golang-00ADD8?logo=go&logoColor=white)
