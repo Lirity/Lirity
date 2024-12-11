@@ -32,7 +32,8 @@ Here are some ideas to get you started:
 ![Flask](https://img.shields.io/badge/-Flask-F27C3C?logo=flask&logoColor=white)
 ![Kratos](https://img.shields.io/badge/-Kratos-FF2626?logo=go&logoColor=white)
 ![Grafana](https://img.shields.io/badge/-Grafana-F46800?logo=grafana&logoColor=white)
-![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white)
+
 
 
 
