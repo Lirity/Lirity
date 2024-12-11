@@ -20,6 +20,7 @@ Here are some ideas to get you started:
 
 ### 🌟 About Me
 
+- 🥸 Committed to becoming an independent developer
 - 💪 Started fitness journey in March 2022
 - ⚽ Football enthusiast and Manchester City Supporter
 - 🎵 Devotedfan of Sakanaction, attended the SAKANAQUARIUM 2024 "Turn"
