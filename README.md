@@ -17,6 +17,7 @@
 
 ### 🔥 Achievement
 
+- 📑 [Corr-Track: Category-Level 6D Pose Tracking with Soft-Correspondence Matrix Estimation.](https://ieeexplore.ieee.org/abstract/document/10458309)
 - 📑 [Implicit Coarse-to-Fine 3D Perception for Category-level Object Pose Estimation from Monocular RGB Image.](https://ieeexplore.ieee.org/abstract/document/10610570)
 
 ### 🛠️ Tech Stack
