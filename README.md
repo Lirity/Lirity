@@ -22,7 +22,6 @@ Here are some ideas to get you started:
 
 - 💪 Started fitness journey in March 2022
 - ⚽ Football enthusiast and Manchester City supporter
-- 🎮 [![Apex Legends](https://img.shields.io/badge/Game-Apex_Legends-EF4C3C?logo=apexcharts&logoColor=white)](https://www.ea.com/games/apex-legends)
 
 ### 💼 Experience
 
