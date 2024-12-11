@@ -40,7 +40,3 @@ Here are some ideas to get you started:
 ![Redis](https://img.shields.io/badge/-Redis-DC382D?logo=redis&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
 ![Grafana](https://img.shields.io/badge/-Grafana-F46800?logo=grafana&logoColor=white)
-
-### 📬 Connect
-
-- **Email**: lirity1024@outlook.com
