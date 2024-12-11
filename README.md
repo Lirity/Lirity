@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![Wechat](https://img.shields.io/badge/Wechat-Lirity1024-07C160?logo=wechat&logoColor=white)
+![Wechat](https://img.shields.io/badge/Lirity1024-07C160?logo=wechat&logoColor=white)
 
 <!--
 **Lirity/Lirity** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
