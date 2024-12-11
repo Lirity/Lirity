@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 - Sep 2024 - Dec 2024: bilibili, Shanghai
 
 ### 🛠️ Tech Stack
-![Golang](https://img.shields.io/badge/-Go-00ADD8?logo=go&logoColor=white)
+![Golang](https://img.shields.io/badge/-Golang-00ADD8?logo=go&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
 
 ### 📬 Connect
