@@ -17,5 +17,5 @@ Here are some ideas to get you started:
 
 ### Tech Stack
 
-### Connect
+### 📬 Connect
 - **Email**: lirity1024@outlook.com
