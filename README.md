@@ -15,4 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Connect
+### Tech Stack
+
+### Connect
+- **Email**: lirity1024@outlook.com
