@@ -1,7 +1,5 @@
 # Hi, I'm Lirity 👋
 
-**M.Sc. student @ Shandong University** · Category-level 6D object pose estimation · Backend for AI platforms
-
 [![Email](https://img.shields.io/badge/lirity1024@outlook.com-0078D4?style=flat-square&logo=gmail&logoColor=white)](mailto:lirity1024@outlook.com)
 ![WeChat](https://img.shields.io/badge/WeChat-Lirity1024-07C160?style=flat-square&logo=wechat&logoColor=white)
 
@@ -15,6 +13,8 @@
 
 ### 💼 Experience
 
+<!-- TODO: 如果已经毕业，把这里改成 "Sep 2022 – Jun 2025" -->
+
 - **M.Sc., Shandong University** — *Sep 2022 – Present*
   Research on category-level 6D object pose estimation and tracking.
 - **AI Backend Intern, Bilibili** — *Sep 2024 – Dec 2024*
@@ -25,7 +25,7 @@
 - **Corr-Track: Category-Level 6D Pose Tracking with Soft-Correspondence Matrix Estimation**<br>
   *IEEE TVCG 2024* · [Paper](https://ieeexplore.ieee.org/abstract/document/10458309)
 - **Implicit Coarse-to-Fine 3D Perception for Category-Level Object Pose Estimation from Monocular RGB Image**<br>
-  *ICRA 2024* · [Paper](https://ieeexplore.ieee.org/abstract/document/10610570)
+  *IEEE ICRA 2024* · [Paper](https://ieeexplore.ieee.org/abstract/document/10610570)
 
 ### 🛠️ Tech Stack
 
