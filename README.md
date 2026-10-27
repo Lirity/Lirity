@@ -1,36 +1,46 @@
-## Hi there 👋
+# Hi, I'm Lirity 👋
 
-![Email](https://img.shields.io/badge/lirity1024@outlook.com-0078D4?logo=gmail&logoColor=white)
-![Wechat](https://img.shields.io/badge/Lirity1024-07C160?logo=wechat&logoColor=white)
+**M.Sc. student @ Shandong University** · Category-level 6D object pose estimation · Backend for AI platforms
+
+[![Email](https://img.shields.io/badge/lirity1024@outlook.com-0078D4?style=flat-square&logo=gmail&logoColor=white)](mailto:lirity1024@outlook.com)
+![WeChat](https://img.shields.io/badge/WeChat-Lirity1024-07C160?style=flat-square&logo=wechat&logoColor=white)
 
 ### 🌟 About Me
 
-- 🥸 Driven to evolve into a skilled independent developer
-- 💪 Embarked on a fitness journey in March 2022
-- ⚽ Passionate about playing football and a Manchester City supporter
-- 🎵 Devoted fan of Sakanaction, attended the SAKANAQUARIUM 2024 "Turn" in Sendai
+- 🥸 Working towards becoming a well-rounded independent developer
+- 💪 Started my fitness journey in March 2022
+- ⚽ Play football regularly and support Manchester City
+- 🧗 Enjoy indoor bouldering
+- 🎵 Long-time Sakanaction fan, caught SAKANAQUARIUM 2024 "Turn" in Sendai
 
 ### 💼 Experience
 
-- **Since Sep 2022**: Pursuing a Master's degree at Shandong University, focusing on object pose estimation.
-- **Sep 2024 - Dec 2024**: AI Backend Intern at Bilibili, responsible for building the AI Open Platform.
+- **M.Sc., Shandong University** — *Sep 2022 – Present*
+  Research on category-level 6D object pose estimation and tracking.
+- **AI Backend Intern, Bilibili** — *Sep 2024 – Dec 2024*
+  Built the AI Open Platform.
 
-### 🔥 Achievement
+### 📄 Publications
 
-- 📑 [Corr-Track: Category-Level 6D Pose Tracking with Soft-Correspondence Matrix Estimation. TVCG 2024.](https://ieeexplore.ieee.org/abstract/document/10458309)
-- 📑 [Implicit Coarse-to-Fine 3D Perception for Category-level Object Pose Estimation from Monocular RGB Image. ICRA 2024.](https://ieeexplore.ieee.org/abstract/document/10610570)
+- **Corr-Track: Category-Level 6D Pose Tracking with Soft-Correspondence Matrix Estimation**<br>
+  *IEEE TVCG 2024* · [Paper](https://ieeexplore.ieee.org/abstract/document/10458309)
+- **Implicit Coarse-to-Fine 3D Perception for Category-Level Object Pose Estimation from Monocular RGB Image**<br>
+  *ICRA 2024* · [Paper](https://ieeexplore.ieee.org/abstract/document/10610570)
 
 ### 🛠️ Tech Stack
-#### Languages
-![Golang](https://img.shields.io/badge/-Golang-00ADD8?logo=go&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2b%2b&logoColor=white)
 
-#### Frameworks & Tools
-![Kratos](https://img.shields.io/badge/-Kratos-FF2626?logo=go&logoColor=white)
-![Flask](https://img.shields.io/badge/-Flask-F27C3C?logo=flask&logoColor=white)
-![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/-Redis-DC382D?logo=redis&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
-![Grafana](https://img.shields.io/badge/-Grafana-F46800?logo=grafana&logoColor=white)
+**Languages**
+
+![Golang](https://img.shields.io/badge/-Golang-00ADD8?style=flat-square&logo=go&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+
+**Frameworks & Tools**
+
+![Kratos](https://img.shields.io/badge/-Kratos-FF2626?style=flat-square&logo=go&logoColor=white)
+![Flask](https://img.shields.io/badge/-Flask-F27C3C?style=flat-square&logo=flask&logoColor=white)
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Grafana](https://img.shields.io/badge/-Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
